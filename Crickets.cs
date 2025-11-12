@@ -13,6 +13,7 @@ public class Crickets : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("crickets"); //вывод надписи в консоль каждый кадр
+        Debug.Log("crickets"); // write on every frame of the game
     }
 }
+
